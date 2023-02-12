@@ -22,6 +22,7 @@
 1. [Word Boundary](#word-boundary)
 1. [General examples](#general-examples)
 1. [Testing Regex in the command line JavaScript](#testing-regex-in-the-command-line-javascript)
+1. [For More Dev Notes](#for-more-dev-notes)
 
 <br/>
 
@@ -244,3 +245,9 @@ console.log(case1); //null
 let case2 = /^([a-z0-9]{5,})$/.exec("pass3434");
 console.log(case2); // ['pass3434', 'pass3434', index:0, input:'pass3434', groups: undefined]
 ```
+
+<br/>
+
+# For More Dev Notes
+
+This is just one piece of my open personal notes collection, where I'm mapping out all my knowledge. If you're keen on checking out other topics, give this a click: ***[official dev-notes](https://github.com/gabrielvsantana/dev-notes)***
